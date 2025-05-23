@@ -4,6 +4,8 @@ import sys #for the clear function
 import time #for the  speed
 import os
 
+#testing
+
 #all global variable's:
 chest_code = 539 # used for secret chest
 fish_cooked = False
